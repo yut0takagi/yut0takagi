@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @yut0takagi
-- 👀 CU B2
+# I'm yut0takagi
+```Python
+univ= "Chuo-univ."
+grade = "B2"
+```
 
 <!---
 yut0takagi/yut0takagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
