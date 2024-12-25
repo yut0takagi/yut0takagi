@@ -2,6 +2,13 @@
 ```Python
 univ= "Chuo-univ."
 grade = "B2"
+Lang={
+"Python":7-years;
+"R":2-years;
+"SQL":2-years;
+"HTML,CSS,JS":2-years;
+"Go":2-years;
+}
 ```
 
 <!---
