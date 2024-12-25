@@ -1,5 +1,5 @@
-# I'm yut0takagi
-```Python
+# yut0takagi
+```Pytohn
 univ= "Chuo-univ."
 grade = "B2"
 Lang={
@@ -10,8 +10,22 @@ Lang={
 "Go":2-years;
 }
 ```
+## Python
+* 競馬レース結果予測についてのモデリング(SQLを利用)
+* LiDAR点群データを用いた平面形成認識モデリング
+* 授業教材としての学習資料作成
+## R
+* 時系列分析を用いた分散分析実験
+## HTML,CSS,JavaScript
+* 大学授業資料まとめサイトの制作
+# Note記事
 ```Pyton
-NOTE: https://note.com/0yasumim0de
+https://note.com/0yasumim0de
+```
+# Notion記事
+```Python
+# データサイエンス実験A 解析解説
+https://hollow-cloche-b10.notion.site/DS-A-11a2ccbf94018084842eef8546c890b6?pvs=4
 ```
 <!---
 yut0takagi/yut0takagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
