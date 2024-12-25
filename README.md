@@ -10,7 +10,9 @@ Lang={
 "Go":2-years;
 }
 ```
-
+```Pyton
+NOTE: https://note.com/0yasumim0de
+```
 <!---
 yut0takagi/yut0takagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
