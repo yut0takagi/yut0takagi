@@ -19,10 +19,13 @@ Lang={
 ## HTML,CSS,JavaScript
 * 大学授業資料まとめサイトの制作
 # Note記事
+Pythonや統計、身近に起こったことのアウトプットに利用しております。
 ```Pyton
 https://note.com/0yasumim0de
 ```
 # Notion記事
+Notionでは、大学の実験科目である「データサイエンス実験A」の解析指導ページを作成いたしました。
+当該担当教授、および特任准教授には、確認していただきmanaba上に公開されています。
 ```Python
 # データサイエンス実験A 解析解説
 https://hollow-cloche-b10.notion.site/DS-A-11a2ccbf94018084842eef8546c890b6?pvs=4
