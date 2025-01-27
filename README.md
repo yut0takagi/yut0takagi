@@ -23,6 +23,12 @@ Lang={
 * パッケージの物理特性におけるセグメント調査
 ## HTML,CSS,JavaScript
 * 大学授業資料まとめサイトの制作
+
+## 学内の履修科目課題として提出したレポート類について
+レポートにおける評価をいただきたいのと、実績を記録したい等の観点から、CuBdsReportリポジトリに追加する予定です。
+個人情報等が含まれるため、みていただける方はXの方へdmしてくださると嬉しいです。
+よろしくお願いいたします。
+
 # Note記事
 Pythonや統計、身近に起こったことのアウトプットに利用しております。
 ```Pyton
@@ -40,7 +46,11 @@ https://hollow-cloche-b10.notion.site/DS-A-11a2ccbf94018084842eef8546c890b6?pvs=
 
 https://zenn.dev/takachanman_jp
 ```
-
+# X
+```Python
+あまり学術的なことは投稿しておりません。一般的な大学生の日常をお送りしております。
+https://x.com/0yasumi_m0de
+```
 <!---
 yut0takagi/yut0takagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
