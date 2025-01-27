@@ -31,6 +31,12 @@ Notionでは、大学の実験科目である「データサイエンス実験A�
 # データサイエンス実験A 解析解説
 https://hollow-cloche-b10.notion.site/DS-A-11a2ccbf94018084842eef8546c890b6?pvs=4
 ```
+# Zenn 記事
+```Python
+
+https://zenn.dev/takachanman_jp
+```
+
 <!---
 yut0takagi/yut0takagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
