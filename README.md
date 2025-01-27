@@ -46,9 +46,11 @@ https://hollow-cloche-b10.notion.site/DS-A-11a2ccbf94018084842eef8546c890b6?pvs=
 
 https://zenn.dev/takachanman_jp
 ```
-# X
-```Python
+# X (旧Twitter)
 あまり学術的なことは投稿しておりません。一般的な大学生の日常をお送りしております。
+また、毎朝6時と午後23時に東京の天気をお知らせするbotを稼働させています。
+ご興味ありましたら、ご確認いただければと思います。
+```Python
 https://x.com/0yasumi_m0de
 ```
 <!---
