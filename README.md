@@ -1,21 +1,31 @@
 # yut0takagi
-```Pytohn
-univ= "Chuo-univ."
-grade = "B2"
-Lang={
-"Python":7-years;
-"R":2-years;
-"SQL":2-years;
-"HTML,CSS,JS":2-years;
-"Go":2-years;
-}
+```Python
+yut0takagi ={
+  "greet":"ご覧いただきありがとうございます。",
+  "grade":["B",2],
+  "univ":"Chuoo-univ",
+  "Lang":["Japanese",
+          "English すこし",
+          "Polish"
+          ]
+  "Programing_Lang":{"Python":{7-years, for data analysing and making Web applications}
+                      "R":{2-years, for MachineLearning},
+                      "SQL":{2-years,None},
+                      "HTML,CSS,JS":{3-years, for making Web Applications}
+                      },
+  "fin":"Thank you!!!!"
+} 
 ```
 ## Python
-* 実験計画法におけるライブラリの作成
+* 実験計画法に関する学内情報共有Wevアプリケーションの作成と運用
+  ※現在使用運転中のため、リポジトリは非公開です。
 * 競馬レース結果予測についてのモデリング(SQLを利用)
 * Las点群データを用いた平面形成認識モデリング
+  ※現在実施中で守秘義務があるため、リポジトリは非公開です。
 * 授業教材としての学習資料作成
-* Pulpを用いた個別指導塾でのコマ振り自動化と、その業務効率化の実現
+  データサイエンス実験(大野教授回)での解析手法についてNotionでまとめております。
+* 個別指導塾での自動コマ割り振りシステムの導入と運用
+  ※シフト提出からコマの割り振りまでをFlaskとpulp(線形計画法)で実装し、授業品質向上のため、教材や生徒資料を学習するRAGを用いたAIチャットbotを運用しています。
 * Djangoを利用した、学科内情報共有サイトの構築とその改善
 * RAGを利用したレポート執筆支援,校閲,検索システムの構築
 * Yoloを用いたスポーツの動作解析(陸上競技)
@@ -23,6 +33,7 @@ Lang={
 ## R
 * 三次元プロットを用いた主成分分析,因子分析
 * 商品パッケージの物理特性におけるセグメント調査
+
 ## HTML,CSS,JavaScript
 * 大学授業資料まとめサイトの制作
 
@@ -47,13 +58,6 @@ https://hollow-cloche-b10.notion.site/DS-A-11a2ccbf94018084842eef8546c890b6?pvs=
 ```Python
 
 https://zenn.dev/takachanman_jp
-```
-# X (旧Twitter)
-あまり学術的なことは投稿しておりません。一般的な大学生の日常をお送りしております。
-また、毎朝6時と午後23時に東京の天気をお知らせするbotを稼働させています。
-ご興味ありましたら、ご確認いただければと思います。
-```Python
-https://x.com/0yasumi_m0de
 ```
 <!---
 yut0takagi/yut0takagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
