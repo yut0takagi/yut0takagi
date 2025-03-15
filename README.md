@@ -15,7 +15,7 @@ yut0takagi ={
   "grade":["B",2],
   "univ":"Chuoo-univ",
   "Lang":["Japanese",
-          "English すこし",
+          "English",
           "Polish"
           ],
   "Programing_Lang":{"Python":{7-years, for data analysing and making Web applications}
