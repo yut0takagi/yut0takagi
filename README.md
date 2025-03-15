@@ -8,6 +8,8 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yut0takagi&theme=vue-dark&layout=compact" />
 </div>
 
+## Skils
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ```Python
 yut0takagi ={
