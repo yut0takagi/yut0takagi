@@ -8,7 +8,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yut0takagi&theme=vue-dark&layout=compact" />
 </div>
 
-<!---
+
 ```Python
 yut0takagi ={
   "greet":"ご覧いただきありがとうございます。",
@@ -17,7 +17,7 @@ yut0takagi ={
   "Lang":["Japanese",
           "English すこし",
           "Polish"
-          ]
+          ],
   "Programing_Lang":{"Python":{7-years, for data analysing and making Web applications}
                       "R":{2-years, for MachineLearning},
                       "SQL":{2-years,None},
@@ -52,11 +52,6 @@ yut0takagi ={
 個人情報等が含まれるため、みていただける方はXの方へdmしてくださると嬉しいです。
 よろしくお願いいたします。
 
-# Note記事
-Pythonや統計、身近に起こったことのアウトプットに利用しております。
-```Pyton
-https://note.com/0yasumim0de
-```
 # Notion記事
 Notionでは、大学の実験科目である「データサイエンス実験A」の解析指導ページを作成いたしました。
 当該担当教授、および特任准教授には、確認していただきmanaba上に公開されています。
@@ -64,13 +59,3 @@ Notionでは、大学の実験科目である「データサイエンス実験A�
 # データサイエンス実験A 解析解説
 https://hollow-cloche-b10.notion.site/DS-A-11a2ccbf94018084842eef8546c890b6?pvs=4
 ```
-# Zenn 記事
-```Python
-
-https://zenn.dev/takachanman_jp
-```
---->
-<!---
-yut0takagi/yut0takagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
