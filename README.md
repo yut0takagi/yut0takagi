@@ -7,6 +7,11 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=yut0takagi&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yut0takagi&theme=vue-dark&layout=compact" />
 </div>
+## Portfolio
+
+```html
+https://yut0takagi.github.io/Portfolio/portfolio
+```
 
 ## Skils
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,r,sqltypescript)](https://skillicons.dev)
