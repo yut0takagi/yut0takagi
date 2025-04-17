@@ -21,16 +21,16 @@
 ```Python
 yut0takagi ={
   "greet":"ご覧いただきありがとうございます。",
-  "grade":["B",2],
-  "univ":"Chuoo-univ",
+  "grade":["B",3],
+  "univ":"Chuo-univ",
   "Lang":["Japanese",
           "English",
-          "Polish"
+          "Polish",
           ],
-  "Programing_Lang":{"Python":{7-years, for data analysing and making Web applications}
-                      "R":{2-years, for MachineLearning},
-                      "SQL":{2-years,None},
-                      "HTML,CSS,JS":{3-years, for making Web Applications}
+  "Programing_Lang":{"Python":(7-years, for data analysing and making Web applications),
+                      "R":(3-years, for MachineLearning),
+                      "SQL":(2-years,None),
+                      "HTML,CSS,JS":(3-years, for making Web Applications),
                       },
   "fin":"Thank you!!!!"
 } 
