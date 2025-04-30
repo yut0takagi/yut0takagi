@@ -59,10 +59,11 @@ yut0takagi ={
 ## HTML,CSS,JavaScript
 * 大学授業資料まとめサイトの制作
 
-## 学内の履修科目課題として提出したレポート類について
-レポートにおける評価をいただきたいのと、実績を記録したい等の観点から、CuBdsReportリポジトリに追加する予定です。
-個人情報等が含まれるため、みていただける方はXの方へdmしてくださると嬉しいです。
-よろしくお願いいたします。
+# Spotify Podcast   
+AIエージェントに関する論文を追っていくためNotebookLMを活用したPodcastを配信しています。   
+```txt
+https://open.spotify.com/show/05w6DAcPiScdhbdNPopElR?si=5Kr4YD9mTPaEuFfTRK70pQ
+```
 
 # Notion記事
 Notionでは、大学の実験科目である「データサイエンス実験A」の解析指導ページを作成いたしました。
