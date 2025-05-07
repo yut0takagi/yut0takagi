@@ -14,6 +14,12 @@
 
 [リンク](https://yut0takagi.github.io/Portfolio/portfolio)
 
+## SpotifyPodcast
+<a link="https://yut0takagi.github.io/SpotifyPodcast/">
+<img alt="SpotifyPodcast" src="https://github.com/yut0takagi/Portfolio/blob/main/img/SpotifyPodcast.png">
+</a>
+
+
 
 ## Skils
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,r,sqltypescript)](https://skillicons.dev)
