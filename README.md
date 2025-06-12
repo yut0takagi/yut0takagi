@@ -63,7 +63,8 @@ yut0takagi ={
 * 商品パッケージの物理特性におけるセグメント調査
 
 ## HTML,CSS,JavaScript
-* 大学授業資料まとめサイトの制作
+* レポート,スライドまとめサイト   
+  [リンク](https://yut0takagi.github.io/assignment/)
 
 # Spotify Podcast   
 AIエージェントに関する論文を追っていくためNotebookLMを活用したPodcastを配信しています。   
