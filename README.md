@@ -43,7 +43,7 @@ yut0takagi ={
 ```
 ## Python
 * 実験計画法に関する学内情報共有Wevアプリケーションの作成と運用   
-  ※現在使用運転中のため、リポジトリは非公開です。
+  ※現在使用運転中のため、リポジトリは非公開です。   
 * 競馬レース結果予測についてのモデリング(SQLを利用)   
 * Las点群データを用いた平面形成認識モデリング   
   ※現在実施中で守秘義務があるため、リポジトリは非公開です。
@@ -51,9 +51,12 @@ yut0takagi ={
   データサイエンス実験(大野教授回)での解析手法についてNotionでまとめております。
 * 個別指導塾での自動コマ割り振りシステムの導入と運用    
   ※シフト提出からコマの割り振りまでをFlaskとpulp(線形計画法)で実装し、授業品質向上のため、教材や生徒資料を学習するRAGを用いたAIチャットbotを運用しています。
-* Flaskを利用した、学科内情報共有サイトの構築とその改善   
-* RAGを利用したレポート執筆支援,校閲,検索システムの構築   
+* Flaskを利用した、学科内情報共有サイトの構築とその改善
+  ※現在作成中です。
+* RAGを利用したレポート執筆支援,校閲,検索システムの構築
+  ※現在は、AWSでプライペートな形式でホスティングして運用しております。
 * Yoloを用いたスポーツの動作解析(陸上競技)   
+  [リンク](https://yut0takagi.github.io/assignment/viewer.html?file=pdf%2F%E8%B5%B0%E8%A1%8C%E3%83%BB%E6%8A%95%E7%90%83%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E6%98%A0%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A7%A3%E6%9E%90.pdf)
 * 実験計画法を利用した、立て替え管理Webアプリケーション   
 * 相談対応AIチャットボット and 傾向分析(セキュリティのため、Privacy設定にしてあります。)     
     [リンク](https://line.me/R/ti/p/@585jissf)
@@ -67,7 +70,9 @@ yut0takagi ={
   [リンク](https://yut0takagi.github.io/assignment/)
 
 # Spotify Podcast   
-AIエージェントに関する論文を追っていくためNotebookLMを活用したPodcastを配信しています。   
+<img alt="SpotifyPodcast" src="https://github.com/yut0takagi/Portfolio/blob/main/img/SpotifyPodcast.png">
+AIエージェントに関する論文を追っていくためNotebookLMを活用したPodcastを配信しています。 
+
 ```txt
 https://open.spotify.com/show/05w6DAcPiScdhbdNPopElR?si=5Kr4YD9mTPaEuFfTRK70pQ
 ```
