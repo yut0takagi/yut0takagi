@@ -81,5 +81,22 @@ yut0takagi ={
   ```txt
   https://open.spotify.com/show/05w6DAcPiScdhbdNPopElR?si=5Kr4YD9mTPaEuFfTRK70pQ
   ```
-
+* 天気予報アプリ   
+  [リンク](https://github.com/yut0takagi/weather_app)
+* QRコード生成アプリ
+  [リンク](https://github.com/yut0takagi/qr-code-gen)   
+* 政治的発言分析WebApp 1   
+  国会議事録APIを用いた分析アプリです。
+  プログラミング学習向けコンテンツとして実装しました。
+  [リンク](https://github.com/yut0takagi/kokkai-analytics)
+* 政治的発言分析WebApp 2   
+  国会議事録APIを用いた分析アプリです。
+  プログラミング学習向けコンテンツとして実装しました。
+  [リンク](https://github.com/yut0takagi/kokkai-analytics2)
+* Faster-Whisper File Transcriber   
+  Obsidian活用のため、録音した音声を文字起こししてmd形式で保存するweb アプリです。
+  [リンク](https://github.com/yut0takagi/faster-whisper-file-app)
+* dom-inspector-ai Python パッケージ
+  スクレイピング自動化、BrowserUseを実装するためのclass id取得パッケージです。
+  [リンク](https://pypi.org/project/dom-inspector-ai/)
   
