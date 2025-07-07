@@ -95,4 +95,6 @@ yut0takagi ={
 * dom-inspector-ai Python パッケージ
   スクレイピング自動化、BrowserUseを実装するためのclass id取得パッケージです。
   [リンク](https://pypi.org/project/dom-inspector-ai/)
-  
+* SessionSmith Python パッケージ
+  セッションの保存用のパッケージです。
+  [リンク](https://pypi.org/project/SessionSmith/)
