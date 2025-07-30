@@ -1,78 +1,113 @@
-# YutoTAKAGI
+<!-- README.md: Futuristic & Interactive GitHub Profile for YutoTAKAGI -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:3a3d98,100:00c6ff\&height=200\&section=header\&text=Welcome%20to%20Yuto's%20Space!\&fontSize=40\&fontColor=ffffff\&animation=twinkling)
+<!-- Tip: keep line‑breaks short (<120 chars) or GitHub will soft‑wrap ugly -->
+
+<!-- ───────────────────────────────── HEADER ───────────────────────────────── -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yut0takagi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <a href="https://yut0takagi.github.io/Portfolio/portfolio"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=google-chrome"></a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&pause=800&color=00C6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Yuto+Takagi;Data+📊+×+ML+🤖+×+Web+🌐;Code+is+my+canvas+%F0%9F%8E%A8"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20My%20Universe!&fontSize=40&fontAlignY=70&fontColor=ffffff" media="(prefers-color-scheme: light)">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0e35,100:00c6ff&height=150&section=header&text=Welcome%20to%20My%20Universe!&fontSize=40&fontAlignY=65&fontColor=ffffff" width="100%"/>
+  </picture>
+</p>
+
+<!-- QUICK NAVIGATION BADGES -->
+
+<p align="center">
+  <a href="#-mission"><img src="https://img.shields.io/badge/-Mission-00c6ff?style=for-the-badge&logoColor=white"></a>
+  <a href="#-skills"><img src="https://img.shields.io/badge/-Skills-00c6ff?style=for-the-badge&logoColor=white"></a>
+  <a href="#-projects"><img src="https://img.shields.io/badge/-Projects-00c6ff?style=for-the-badge&logoColor=white"></a>
+  <a href="#-stats"><img src="https://img.shields.io/badge/-Stats-00c6ff?style=for-the-badge&logoColor=white"></a>
+  <a href="https://yut0takagi.github.io/Portfolio/portfolio"><img src="https://img.shields.io/badge/-Portfolio-00c6ff?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
-## 🏃‍♀️ **Activities**
+## 🚀 Mission <a id="-mission"></a>
 
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=yut0takagi&show_icons=true&theme=vue-dark&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yut0takagi&layout=compact&theme=vue-dark" />
-</div>
+> **データ ✕ AI ✕ クリエイティブ** で "Wow" を生み出す。<br/>
+> ***"Turn curiosity into product"*** を合言葉に、**分析・RAG・エージェント開発**で社会課題に挑む。
 
 ---
 
-## 🚀 **Portfolio**
-
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-orange?style=for-the-badge\&logo=vercel)](https://yut0takagi.github.io/Portfolio/portfolio)
-
-![Portfolio Screenshot](https://github.com/yut0takagi/Portfolio/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-03-30%2014.25.34.png?raw=true)
-
----
-
-## 🛠 **Skills**
+## 🛠 Skills <a id="-skills"></a>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,js,ts,html,css,react,flask,sql,aws,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,ts,react,flask,fastapi,aws,docker,git,html,css,mysql,postgresql&perline=8"/>
+</p>
+
+<details>
+<summary>🧰 &nbsp;Toolbox / Environment</summary>
+
+| Category      | Stack                                                     |
+| ------------- | --------------------------------------------------------- |
+| **Data / ML** | Pandas · Scikit‑learn · PyTorch · Statsmodels · Lifelines |
+| **MLOps**     | LangChain · Weights & Biases · MLflow                     |
+| **Cloud**     | AWS (EC2 · S3 · Lambda) · Firebase                        |
+| **DevOps**    | Docker · GitHub Actions · Railway                         |
+
+</details>
+
+---
+
+## 📂 Projects <a id="-projects"></a>
+
+<details open>
+<summary>🎯 **Featured**</summary>
+
+|       | Project                           | Tech                         | Demo                                                                                                                                                                                                                                                                               |
+| :---: | --------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏃‍♂️ | **Sports Motion Analysis (YOLO)** | Python · YOLOv8 · Streamlit  | <a href="https://yut0takagi.github.io/assignment/viewer.html?file=pdf%2F%E8%B5%B0%E8%A1%8C%E3%83%BB%E6%8A%95%E7%90%83%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E6%98%A0%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A7%A3%E6%9E%90.pdf">PDF</a> |
+|   💬  | **Counseling AI Chatbot (RAG)**   | LangChain · Flask · LINE API | <a href="https://line.me/R/ti/p/@585jissf">LINE</a>                                                                                                                                                                                                                                |
+|   💸  | **PayTomo** (立替え管理)               | Flask · Pulp · SQL           | <a href="https://paytomo.onrender.com/home/">Live</a>                                                                                                                                                                                                                              |
+|  🏛️  | **Political Speech Analytics**    | React · FastAPI · D3.js      | <a href="https://github.com/yut0takagi/kokkai-analytics">Code</a>                                                                                                                                                                                                                  |
+
+</details>
+
+<details>
+<summary>🗂️ **More Notable Works**</summary>
+
+* ⛅ **Weather App** – Simple OpenWeatherMap client<br>
+* 🎧 **Podcast Generator** – NotebookLM × Whisper × TTS for AI‑agent papers<br>
+* 🏇 **Horse‑Race Prediction** – Ongoing SQL & ML system *(private)*<br>
+* 🗺️ **dom‑inspector‑ai** – Python package for smart scraping (<a href="https://pypi.org/project/dom-inspector-ai/">PyPI</a>)<br>
+
+</details>
+
+---
+
+## 📊 Stats & Trophy <a id="-stats"></a>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yut0takagi&theme=onedark&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yut0takagi&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yut0takagi&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yut0takagi&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="170" />
 </p>
 
 ---
 
-## 📝 **About Me (Python style)**
-
-```python
-yut0takagi = {
-    "greet": "ご覧いただきありがとうございます。",
-    "grade": ["B", 3],
-    "univ": "Chuo-univ",
-    "Lang": ["Japanese", "English", "Polish"],
-    "Programming_Lang": {
-        "Python": "7 years - Data Analysis & Web Applications",
-        "R": "3 years - Machine Learning",
-        "SQL": "2 years",
-        "HTML/CSS/JS": "3 years - Web Applications",
-    },
-    "fin": "Thank you!!!!"
-}
-```
-
----
-
-## 📂 **Featured Projects**
-
-| Project                           | Description                | Link                                                                                                                                                                                                                                                                     |
-| --------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sports Motion Analysis (YOLO)** | 陸上競技の動作解析                  | [View](https://yut0takagi.github.io/assignment/viewer.html?file=pdf%2F%E8%B5%B0%E8%A1%8C%E3%83%BB%E6%8A%95%E7%90%83%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E6%98%A0%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A7%A3%E6%9E%90.pdf) |
-| **AI Chatbot for Counseling**     | RAGを用いた相談対応Bot             | [LINE](https://line.me/R/ti/p/@585jissf)                                                                                                                                                                                                                                 |
-| **PayTomo**                       | Flask × 線形計画法を用いた立て替え管理アプリ | [App](https://paytomo.onrender.com/home/)                                                                                                                                                                                                                                |
-| **Political Speech Analytics**    | 国会議事録APIでの政治分析WebApp       | [GitHub](https://github.com/yut0takagi/kokkai-analytics)                                                                                                                                                                                                                 |
-
----
-
-## 🎷 **Spotify Podcast**
+## 🎙️ Podcast
 
 <p align="center">
   <a href="https://open.spotify.com/show/05w6DAcPiScdhbdNPopElR">
-    <img src="https://github.com/yut0takagi/Portfolio/blob/main/img/SpotifyPodcast.png" width="300">
+    <img src="https://github.com/yut0takagi/Portfolio/blob/main/img/SpotifyPodcast.png" width="260">
   </a>
 </p>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:00c6ff,100:3a3d98\&height=150\&section=footer)
+<!-- ───────────────────────────── FOOTER ───────────────────────────── -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0d0e35&height=120&section=footer"/>
+  <br/>
+  <sub>"Stay hungry, stay foolish." – as always | © 2025 Yuto Takagi</sub>
+</p>
