@@ -63,39 +63,48 @@
 </details>
 
 ---
-
 <!-- ────────────── PROJECTS ────────────── -->
-
 <a id="projects"></a>
 
 <details>
   <summary><h2>📂 Projects</h2></summary>
 
+  <!-- ===== Featured Projects ===== -->
   <details open>
     <summary>🎯 Featured</summary>
 
-|       | Project                           | Tech Stack                   | Demo                                                                                                                                                                                                                                                                    |
-| :---: | --------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🏃‍♂️ | **Sports Motion Analysis (YOLO)** | Python · YOLOv8 · Streamlit  | [PDF](https://yut0takagi.github.io/assignment/viewer.html?file=pdf%2F%E8%B5%B0%E8%A1%8C%E3%83%BB%E6%8A%95%E7%90%83%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E6%98%A0%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A7%A3%E6%9E%90.pdf) |
-|   💬  | **Counseling AI Chatbot (RAG)**   | LangChain · Flask · LINE API | [LINE](https://line.me/R/ti/p/@585jissf)                                                                                                                                                                                                                                |
-|   💸  | **PayTomo** (立替え管理)               | Flask · Pulp · SQL           | [Live](https://paytomo.onrender.com/home/)                                                                                                                                                                                                                              |
-|  🏛️  | **Political Speech Analytics**    | React · FastAPI · D3.js      | [Code](https://github.com/yut0takagi/kokkai-analytics)                                                                                                                                                                                                                  |
+|       | Project                                   | Tech Stack                                  | Demo / Code                                                                                                                                                                                                                                                           |
+| :---: | ----------------------------------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏃‍♂️ | **Sports Motion Analysis (YOLO)**           | Python · YOLOv8 · Streamlit                 | [PDF](https://yut0takagi.github.io/assignment/viewer.html?file=pdf%2F%E8%B5%B0%E8%A1%8C%E3%83%BB%E6%8A%95%E7%90%83%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AE%E6%98%A0%E5%83%8F%E3%83%87%E3%83%BC%E3%82%BF%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A7%A3%E6%9E%90.pdf) |
+| 🦮 | **Corgi – Programming Learning Platform**   | React · FastAPI · Firebase · Monaco Editor  | [Repo](https://github.com/yut0takagi/Corgi)                                                                                                                                                                                                                            |
+| 🚀 | **CreateAppAutomate** (No-Code Generator)     | Flask · LangChain · Docker · Stripe         | [Demo](https://createappautomate.onrender.com/)                                                                                                                                                                                                                        |
+| 📚 | **Glossarix – arXiv Glossary Builder**        | React · FastAPI · AWS · OpenAI API          | [Code](https://github.com/yut0takagi/glossarix)                                                                                                                                                                                                                        |
+| 📰 | **News Workflow Automator**                   | LangChain · AWS · Veo 3 API · React         | *In Progress*                                                                                                                                                                                                                                                          |
+| 💬 | **Counseling AI Chatbot (RAG)**               | LangChain · Flask · LINE API                | [LINE](https://line.me/R/ti/p/@585jissf)                                                                                                                                                                                                                                |
+| 💸 | **PayTomo** (立替え管理)                       | Flask · PuLP · PostgreSQL                   | [Live](https://paytomo.onrender.com/home/)                                                                                                                                                                                                                              |
+| 🏛️ | **Political Speech Analytics**                | React · FastAPI · D3.js                     | [Code](https://github.com/yut0takagi/kokkai-analytics)                                                                                                                                                                                                                  |
 
   </details>
 
+  <!-- ===== More Notable Works ===== -->
   <details>
     <summary>🗂️ More Notable Works</summary>
 
-* ⛅ **Weather App** – OpenWeatherMap クライアント
-* 🎧 **Podcast Generator** – NotebookLM × Whisper × TTS
-* 🏇 **Horse‑Race Prediction** – SQL & ML (private)
-* 🗺️ **dom‑inspector‑ai** – Smart scraping package ([PyPI](https://pypi.org/project/dom-inspector-ai/))
+* ⛅ **Weather App** – OpenWeatherMap クライアント  
+* 🎧 **Podcast Generator** – NotebookLM × Whisper × TTS  
+* 🏇 **Horse-Race Prediction** – SQL & ML (private)  
+* 📊 **Survival Analysis Toolkit** – Python (Pandas, Lifelines)  
+* 🗺️ **dom-inspector-ai** – Smart scraping package ([PyPI](https://pypi.org/project/dom-inspector-ai/))  
+* 🔑 **SessionSmith** – Jupyter セッション保存ツール ([GitHub](https://github.com/yut0takagi/SessionSmith))  
+* 📈 **国会会議録 LDA Visualizer** – Streamlit · Plotly  
+* 🎥 **MoveNet Dance Coach** – React · TensorFlow.js  
+* 🔔 **Gmail → Slack Notifier** – AWS · Webhook · Flask  
+* 📦 **Markdown2PDF** – CLI / GUI 変換ツール ([PyPI](https://pypi.org/project/md2pdf/))
 
   </details>
 </details>
 
 ---
-
 <!-- ────────────── STATS ────────────── -->
 
 <a id="stats"></a>
