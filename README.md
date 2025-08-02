@@ -61,8 +61,6 @@
 
   </details>
 </details>
-
----
 <!-- ────────────── PROJECTS ────────────── -->
 <a id="projects"></a>
 
@@ -102,9 +100,49 @@
 * 📦 **Markdown2PDF** – CLI / GUI 変換ツール ([PyPI](https://pypi.org/project/md2pdf/))
 
   </details>
+
+  <!-- ===== Full Repository List ===== -->
+  <details>
+    <summary>📚 All GitHub Repositories</summary>
+<ul>
+  <li><a href="https://github.com/yut0takagi/Ass_MarketingResearch">Ass Marketingresearch</a></li>
+  <li><a href="https://github.com/yut0takagi/Corgi">Corgi</a></li>
+  <li><a href="https://github.com/yut0takagi/DanceScoreVisualize">Dancescorevisualize</a></li>
+  <li><a href="https://github.com/yut0takagi/DevVault">Devvault</a></li>
+  <li><a href="https://github.com/yut0takagi/EY-Ideathon">Ey Ideathon</a></li>
+  <li><a href="https://github.com/yut0takagi/Exp-NLP">Exp Nlp</a></li>
+  <li><a href="https://github.com/yut0takagi/NewsAPI2Dify">Newsapi2Dify</a></li>
+  <li><a href="https://github.com/yut0takagi/Portfolio">Portfolio</a></li>
+  <li><a href="https://github.com/yut0takagi/SessionSmith">Sessionsmith</a></li>
+  <li><a href="https://github.com/yut0takagi/SpotifyPodcast">Spotifypodcast</a></li>
+  <li><a href="https://github.com/yut0takagi/assignment">Assignment</a></li>
+  <li><a href="https://github.com/yut0takagi/cycle-tourism-platform">Cycle Tourism Platform</a></li>
+  <li><a href="https://github.com/yut0takagi/dom_inspector_ai">Dom Inspector Ai</a></li>
+  <li><a href="https://github.com/yut0takagi/dsb_katoh">Dsb Katoh</a></li>
+  <li><a href="https://github.com/yut0takagi/faster-whisper-file-app">Faster Whisper File App</a></li>
+  <li><a href="https://github.com/yut0takagi/hello_app">Hello App</a></li>
+  <li><a href="https://github.com/yut0takagi/kokkai-analytics">Kokkai Analytics</a></li>
+  <li><a href="https://github.com/yut0takagi/kokkai-analytics2">Kokkai Analytics2</a></li>
+  <li><a href="https://github.com/yut0takagi/kt_app">Kt App</a></li>
+  <li><a href="https://github.com/yut0takagi/learn-code-lp">Learn Code Lp</a></li>
+  <li><a href="https://github.com/yut0takagi/md2pdf_advanced">Md2Pdf Advanced</a></li>
+  <li><a href="https://github.com/yut0takagi/mr_app">Mr App</a></li>
+  <li><a href="https://github.com/yut0takagi/news-short-video-platform">News Short Video Platform</a></li>
+  <li><a href="https://github.com/yut0takagi/pandas">Pandas</a></li>
+  <li><a href="https://github.com/yut0takagi/qr-code-gen">Qr Code Gen</a></li>
+  <li><a href="https://github.com/yut0takagi/sample_app">Sample App</a></li>
+  <li><a href="https://github.com/yut0takagi/star">Star</a></li>
+  <li><a href="https://github.com/yut0takagi/stargazers">Stargazers</a></li>
+  <li><a href="https://github.com/yut0takagi/toy_app">Toy App</a></li>
+  <li><a href="https://github.com/yut0takagi/unstar">Unstar</a></li>
+  <li><a href="https://github.com/yut0takagi/weather_app">Weather App</a></li>
+  <li><a href="https://github.com/yut0takagi/yut0takagi">Yut0Takagi</a></li>
+</ul>
+  </details>
 </details>
 
 ---
+
 <!-- ────────────── STATS ────────────── -->
 
 <a id="stats"></a>
