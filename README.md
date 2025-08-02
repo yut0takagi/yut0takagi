@@ -163,23 +163,6 @@
 
 ---
 
-<!-- ────────────── PORTFOLIO ────────────── -->
-
-<a id="portfolio"></a>
-
-<details>
-  <summary><h2>🚀 Portfolio Website</h2></summary>
-
-<p align="center">
-  <a href="https://yut0takagi.github.io/Portfolio/portfolio">
-    <img src="https://github.com/yut0takagi/Portfolio/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-03-30%2014.25.34.png?raw=true" width="600"/>
-  </a>
-</p>
-
-</details>
-
----
-
 <!-- ────────────── PODCAST ────────────── -->
 
 <details>
