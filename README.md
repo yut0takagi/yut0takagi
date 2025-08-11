@@ -9,6 +9,7 @@
 
 ### 🛠 Current Projects
 
+- 🎙️ **しっくりボーカル** - Web Application(PHP Lerabel)-Music Streaming Service
 - 🎓 **Corgi** — Interactive coding + AI platform for non-CS learners
 - 📰 **AutoNews** — End-to-end automation from scraping to Insta-ready content
 - 📖 **Glossarix** — Academic term explorer powered by GPT + arXiv
