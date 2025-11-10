@@ -4,5 +4,7 @@
 [新Portfolio](https://d3jed3trrbaydh.cloudfront.net/)
 [旧Portfolio](https://portfolio-ruw9.onrender.com/)
 
+### ObserMeの開発中...
+
 ### 📫 Contact
 - ✉️ [Email](mailto:yutotakagi.for.business@gmail.com)
