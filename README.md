@@ -27,7 +27,7 @@
 
 |          Python Package             |        Explanation                                                                 |
 | ------------------------ | --------------------------------------------------------------------------------- |
-| ⚡ [**ObserMe**](https://pypi.org/project/mrbs)            |  部分的なデータをXGBoostで補完し、勾配上昇法とクラスタリングで最適点を探索するPythonライブラリです。 |
+| ⚡ [**MRBS**](https://pypi.org/project/mrbs)            |  部分的なデータをXGBoostで補完し、勾配上昇法とクラスタリングで最適点を探索するPythonライブラリです。 |
 
 ### 📊 GitHub Metrics
 
