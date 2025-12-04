@@ -2,11 +2,7 @@
 
 # 🚀 **Yuto Takagi**
 
-### AI Engineering ｜ Full‑Stack ｜ Systems Design
-
 <br/>
-
-![banner](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,100:1a1a1a\&height=230\&text=Engineering%20at%20Velocity.\&fontColor=ffffff\&fontSize=42\&fontAlignY=40)
 
 <br/><br/>
 
