@@ -23,6 +23,12 @@
 
 <br/>
 
+### 🧩 Python Packages
+
+|          Python Package             |        Explanation                                                                 |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| ⚡ [**ObserMe**](https://pypi.org/project/mrbs)            |  部分的なデータをXGBoostで補完し、勾配上昇法とクラスタリングで最適点を探索するPythonライブラリです。 |
+
 ### 📊 GitHub Metrics
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=yut0takagi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
