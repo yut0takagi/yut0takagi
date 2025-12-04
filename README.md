@@ -14,7 +14,7 @@
 
 ### 🧩 Highlights
 
-|                          |                                                                                   |
+|          PJT             |             Tech Stack                                                            |
 | ------------------------ | --------------------------------------------------------------------------------- |
 | ⚡ **ObserMe**            | Multi‑repo / microservices ecosystem for personal analytics (Flask / React / AWS) |
 | 🧠 **AI Pipeline**       | Whisper → LLM → Structured Notes with local inference (LM Studio)                 |
