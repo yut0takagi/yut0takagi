@@ -32,6 +32,11 @@
 | ⚡ [**SessionSmith**](https://pypi.org/project/SessionSmith/)            |  Jupyter Notebook や Python 実行時のセッション（変数・オブジェクト）を簡単に保存・復元できる軽量ライブラリです。 |
 | ⚡ [**DOM Inspector AI**](https://pypi.org/project/dom-inspector-ai/)            |  This package extracts all id and class attributes from a web page, along with their DOM paths and a base64 screenshot. |
 
+## Languages
+|          DSL             |        Explanation                                                                 |
+| ------------------------ | --------------------------------------------------------------------------------- |
+| ⚡ [**Optica**](https://github.com/yut0takagi/Optica)            |  数理最適化に特化したDSL(Domain Specific Language)です。 |
+
 
 ### 📊 GitHub Metrics
 
