@@ -37,14 +37,6 @@
 | ------------------------ | --------------------------------------------------------------------------------- |
 | ⚡ [**Optica**](https://github.com/yut0takagi/Optica)            |  数理最適化に特化したDSL(Domain Specific Language)です。 |
 
-
-### 📊 GitHub Metrics
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yut0takagi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yut0takagi&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yut0takagi&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/><br/>
 
 ### 🌍 Links
