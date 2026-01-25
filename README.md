@@ -20,6 +20,7 @@
 | 🧠 **AI Pipeline**       | Whisper → LLM → Structured Notes with local inference (LM Studio)                 |
 | 🕸️ **DOM Inspector AI** | Web DOM → JSON structural mapping for RAG & autonomous agents                     |
 | 🧪 **ML Sandbox**        | EDA / modeling / simulations for DS research                                      |
+| 🧪 **scikit for learn**        | Documents for Using Scikit-learn                                      |
 
 <br/>
 
