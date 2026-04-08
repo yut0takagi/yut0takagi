@@ -1,54 +1,45 @@
-<div align="center">
+## 高木 悠人
 
-# 🚀 **Yuto Takagi**
+Pythonをよく書きます。最近は人がやらなくていいことの自動化にハマってます。
+
+---
+
+### ライブラリ・DSL
+
+- [**Optica**](https://github.com/yut0takagi/Optica) — 数理最適化のためのDSL
+- [**MRBS**](https://github.com/yut0takagi/MRBS) — XGBoostで欠損補完 → 勾配上昇法+クラスタリングで最適点探索 ([PyPI](https://pypi.org/project/mrbs))
+- [**SessionSmith**](https://github.com/yut0takagi/SessionSmith) — Jupyter/Pythonのセッションを保存・復元 ([PyPI](https://pypi.org/project/SessionSmith/))
+- [**DOM Inspector AI**](https://pypi.org/project/dom-inspector-ai/) — WebページのDOM構造+スクショを抽出、エージェント向け
+- [**md2pdf-advanced**](https://pypi.org/project/md2pdf-advanced) — Markdownをいい感じのPDFに変換
+
+### Obsidian プラグイン
+
+- [**obsidian-meeting-detector**](https://github.com/yut0takagi/obsidian-meeting-detector) — Zoom/Meet/Teamsを検知して録音・議事録作成を促す
+- [**obsidian-system-recording**](https://github.com/yut0takagi/obsidian-system-recording) — システム音声を録音してVaultにM4Aで保存 (ScreenCaptureKit)
+
+### Claude Code / AI
+
+- [**mcp-director**](https://github.com/yut0takagi/mcp-director) — MCPプロファイルを推薦・管理する軽量MCPサーバー
+- [**claude-skills**](https://github.com/yut0takagi/claude-skills) — 汎用的なClaude Codeスキル集
+
+### ツール・アプリ
+
+- [**MacFolderView**](https://github.com/yut0takagi/MacFolderView) — macOSメニューバーで動く軽量ファイルブラウザ
+- [**faster-whisper-file-app**](https://github.com/yut0takagi/faster-whisper-file-app) — 音声ファイル → 文字起こし → MDファイル作成を自動化
+- [**error2qiita**](https://github.com/yut0takagi/error2qiita) — エラーからQiita記事を生成
+- [**PyDE**](https://github.com/yut0takagi/PyDE) — ブラウザで動くPython IDE
+- [**scikit-for-learn**](https://github.com/yut0takagi/scikit-for-learn) — scikit-learnの学習ドキュメント
+
+### その他
+
+- [**ml-or-or**](https://github.com/yut0takagi/ml-or-or) — scikit-learnを数理最適化で書き換えていくPJT
+- [**Gemsrack**](https://github.com/yut0takagi/Gemsrack) — Python
+- [**galr**](https://github.com/yut0takagi/galr) — Jupyter Notebook
+
+---
+
+<img src="https://skillicons.dev/icons?i=python,ts,swift,react,nextjs,fastapi,docker,aws,gcp,postgres,git,obsidian&perline=12" />
 
 <br/>
 
-<br/><br/>
-
-### ⚙️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,nextjs,ts,js,aws,gcp,docker,linux,git,github,mysql,postgres&perline=7" />
-
-<br/><br/>
-
-### 🧩 Highlights
-
-|          PJT             |             Tech Stack                                                            |
-| ------------------------ | --------------------------------------------------------------------------------- |
-| ⚡ **ObserMe**            | Multi‑repo / microservices ecosystem for personal analytics (Flask / React / AWS) |
-| 🧠 **AI Pipeline**       | Whisper → LLM → Structured Notes with local inference (LM Studio)                 |
-| 🕸️ **DOM Inspector AI** | Web DOM → JSON structural mapping for RAG & autonomous agents                     |
-| 🧪 **ML Sandbox**        | EDA / modeling / simulations for DS research                                      |
-| 🧪 **scikit for learn**        | Documents for Using Scikit-learn                                      |
-
-<br/>
-
-### 🧩 Python Packages
-
-|          Python Package             |        Explanation                                                                 |
-| ------------------------ | --------------------------------------------------------------------------------- |
-| ⚡ [**MRBS**](https://pypi.org/project/mrbs)            |  部分的なデータをXGBoostで補完し、勾配上昇法とクラスタリングで最適点を探索するPythonライブラリです。 |
-| ⚡ [**md2pdf-advanced**](https://pypi.org/project/md2pdf-advanced)            |  Markdown ファイルを美しくカスタマイズされた PDF に変換できる Python パッケージです。 |
-| ⚡ [**SessionSmith**](https://pypi.org/project/SessionSmith/)            |  Jupyter Notebook や Python 実行時のセッション（変数・オブジェクト）を簡単に保存・復元できる軽量ライブラリです。 |
-| ⚡ [**DOM Inspector AI**](https://pypi.org/project/dom-inspector-ai/)            |  This package extracts all id and class attributes from a web page, along with their DOM paths and a base64 screenshot. |
-
-## Languages
-|          DSL             |        Explanation                                                                 |
-| ------------------------ | --------------------------------------------------------------------------------- |
-| ⚡ [**Optica**](https://github.com/yut0takagi/Optica)            |  数理最適化に特化したDSL(Domain Specific Language)です。 |
-
-<br/><br/>
-
-### 🌍 Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://yut0takagi.github.io/takachanmanJP/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yut0takagi)
-
-<br/><br/>
-
-### 🖤
-
-**"Build. Iterate. Overclock Reality."**
-
-</div>
+[Portfolio](https://yut0takagi.github.io/takachanmanJP/) / [PyPI](https://pypi.org/user/yut0takagi/)
