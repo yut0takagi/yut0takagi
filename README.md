@@ -38,7 +38,6 @@ Pythonをよく書きます。
 
 ---
 
-<img src="https://skillicons.dev/icons?i=python,ts,swift,react,nextjs,fastapi,docker,aws,gcp,postgres,git,obsidian&perline=12" />
 
 <br/>
 
