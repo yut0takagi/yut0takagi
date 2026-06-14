@@ -1,0 +1,29 @@
+{
+  "name": "yut0takagi",
+  "version": "1.0.0",
+  "description": "Pythonをよく書きます。",
+  "main": "index.js",
+  "scripts": {
+    "zenn:preview": "zenn preview",
+    "zenn:new": "zenn new:article",
+    "qiita:preview": "qiita preview",
+    "qiita:new": "qiita new",
+    "qiita:publish": "qiita publish --all",
+    "qiita:login": "qiita login"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yut0takagi/yut0takagi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yut0takagi/yut0takagi/issues"
+  },
+  "homepage": "https://github.com/yut0takagi/yut0takagi#readme",
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.8.0",
+    "zenn-cli": "^0.5.0"
+  }
+}
