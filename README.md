@@ -32,8 +32,6 @@ Pythonをよく書きます。
 - [**MacFolderView**](https://github.com/yut0takagi/MacFolderView) — macOSメニューバーで動く軽量ファイルブラウザ
 - [**faster-whisper-file-app**](https://github.com/yut0takagi/faster-whisper-file-app) — 音声ファイル → 文字起こし → MDファイル作成を自動化
 - [**note-crawler**](https://github.com/yut0takagi/note-crawler) — note.comのクリエイター記事を全archive、JSON+Markdown、ログイン不要
-- [**error2qiita**](https://github.com/yut0takagi/error2qiita) — エラーからQiita記事を生成
-- [**PyDE**](https://github.com/yut0takagi/PyDE) — ブラウザで動くPython IDE
 - [**scikit-for-learn**](https://github.com/yut0takagi/scikit-for-learn) — scikit-learnの学習ドキュメント
 
 ### その他
