@@ -5,13 +5,13 @@ tags:
   - ML
   - scikit-learn
 private: false
-updated_at: '2026-07-12T15:32:56+09:00'
+updated_at: '2026-10-01T06:14:18+09:00'
 id: eddab2659c9418fbfdf8
 organization_url_name: null
 slide: false
 ignorePublish: false
-posting_campaign_uuid: null
-agreed_posting_campaign_term: false
+posting_campaign_uuid: db2106c2a38d86187ffc
+agreed_posting_campaign_term: true
 ---
 機械学習タスクを開始する際のデータ分割方法についてです。
 機械学習タスクを進める際に、`train`と`test`の分け方,順番をミスる場合が多いので見返す用に書きました。
